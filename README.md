@@ -1,1 +1,1 @@
-# tumolabs_3_project_arman_aristakesyan
+# tumo_labs_3_project_arman_aristakesyan
